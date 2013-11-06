@@ -7,7 +7,7 @@ $GLOBALS['config'] = array(
     'mysql' => array(
         'host' => '127.0.0.1',
         'username' => 'suffera',
-        'password' => '9873559p2',
+        'password' => '123456',
         'db' => 'myoop'
     ),
     'remember' => array(
